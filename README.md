@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/Version-1.0-success?style=plastic)       ![Language](https://img.shields.io/badge/Language-C-A8B9CC?style=plastic)
+
 # Inventory Management System Documentation
 ## Introduction
 The Inventory Management System is a console-based application designed to help businesses track and manage their inventory. This program allows users to enter information such as item name, identification number, cost, and quantity. It then performs various functions, including tracking sales, calculating profits, and managing stock levels.
